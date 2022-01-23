@@ -58,13 +58,13 @@ header {
 }
 
 .guess-label {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   margin: 0;
 }
 
 .score-label {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
   margin: 0;
 }
@@ -164,7 +164,7 @@ input[type=number]::-webkit-inner-spin-button {
   margin-right: auto;
   margin-bottom: 60px;
 }
-  
+
 .button[disabled] {
   background-color: #d2d2d2;
   color: #a0a0a0;
@@ -172,7 +172,7 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 .instructions {
-  background-color: #ececec;
+  background-color: #ffb7c5;
   width: 100%;
   display: flex;
   justify-content: space-around;
